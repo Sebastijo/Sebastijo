@@ -29,8 +29,8 @@ I have experience working on both academic and professional projects, ranging fr
 I love using open-source software and tools. I’m a fan of Python’s versatility and Julia’s performance for numerical tasks. I also enjoy collaborating with others and contributing to open-source communities.
 
 ## Fin me in
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/sebastián-pincheira-ab4529259)
-- GitHub: [github.com/yourusername]([https://github.com/yourusername](https://github.com/Sebastijo))
+- LinkedIn: [Sebastián Pincheira](www.linkedin.com/in/sebastián-pincheira-ab4529259)
+- GitHub: [Sebastijo](https://github.com/Sebastijo)
 - Email: sebastian.pincheira@ug.uchile.cl
 
 
